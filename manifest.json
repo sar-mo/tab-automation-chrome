@@ -1,0 +1,11 @@
+{
+  "name": "Tab Automation",
+  "description": "Open and group tabs automatically",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabGroups"],
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
